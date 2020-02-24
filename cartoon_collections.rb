@@ -33,4 +33,4 @@ def find_the_cheese(food)# code an argument here
 end 
 end
 
-find_the_cheese
+find_the_cheese(food)
